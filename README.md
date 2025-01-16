@@ -2,6 +2,8 @@
 
 A Neovim plugin that generates GitHub URLs for your code, supporting both branch-based links and permalinks. Perfect for sharing code references with your team!
 
+https://github.com/user-attachments/assets/dbfdcd9f-bf11-46da-903f-3f46d9893d4e
+
 ## Features
 
 - Generate GitHub URLs for selected code
